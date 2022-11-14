@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Danny25S-A
 - 👀 I’m interested in ... coding, football and fitness
 - 🌱 I’m currently learning ... how to develop my code 
-- 💞️ I’m looking to collaborate on ... basic tasks that help me have a more comprehensive knowledge
+- 💞️ I’m looking to collaborate on ... tasks that help me have a more comprehensive knowledge
 - 📫 How to reach me ... shoot me a message
 
 <!---
